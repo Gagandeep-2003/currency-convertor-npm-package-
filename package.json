@@ -1,0 +1,31 @@
+{
+  "name": "ggn-currency-convertor",
+  "version": "1.0.0",
+  "description": "this is a npm package to effectively convert currenct to other currency that is also upto date.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gagandeep-2003/currency-convertor-npm-package-.git"
+  },
+  "keywords": [
+    "currency",
+    "convertor",
+    "currency-convertor",
+    "usd-inr",
+    "npm"
+  ],
+  "author": "Gagandeep Singh",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Gagandeep-2003/currency-convertor-npm-package-/issues"
+  },
+  "homepage": "https://github.com/Gagandeep-2003/currency-convertor-npm-package-#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1",
+    "multiplier": "^0.1.0"
+  }
+}
